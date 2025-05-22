@@ -1,0 +1,64 @@
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+figure{
+    margin: 0;
+}
+body{
+   background-color: #8e8d8d;
+}
+header{
+   background-color: #cd4370;
+}
+a{
+    color: 
+rgb(4, 0, 0);
+}
+a:hover{
+    color: 
+#ff00b5;
+}
+
+/*font*/
+html{
+  font-size: 20px;
+}
+
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 2rem;
+}
+body{
+  font-family: Snell Roundhand, cursive;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Snell Roundhand", cursive;
+}
+p{
+  font-weight: 400;
+}
+
+h1{
+  font-weight: 900;
+}
+
+h2{
+  font-weight: 900;
+}
+
+/*navigation*/
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 100px;
+}
+nav li:last-child{
